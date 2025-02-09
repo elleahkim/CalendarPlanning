@@ -14,7 +14,7 @@ public class CalendarPlanning {
         String startDate = null;  
 
         while (true) {
-            System.out.println("\nChoose an option:");
+            // System.out.println("\nChoose an option:");
             System.out.println("1. Add new activity");
             System.out.println("2. Print schedule");
             System.out.println("3. Exit");
